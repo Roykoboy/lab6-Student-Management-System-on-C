@@ -1,0 +1,8 @@
+.vs/
+*.vsidx
+*.vsitems
+Debug/
+Release/
+*.user
+*.sln
+*.filters
